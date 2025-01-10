@@ -16,7 +16,7 @@
 #middle {
     width: 568px;
     height: 339px;
-    background-color: #2863c3;
+    background-color: #0543a7;
     padding: 35px;
     box-sizing: border-box;
     border: 2px solid #000;
@@ -45,7 +45,7 @@
     font-weight: bold;
 }
 #spoor {
-    color:#2863c3;
+    color:#0543a7;
     font-size: 10px;
     position: absolute;
     top: 46px;
@@ -115,11 +115,22 @@
     left: 226px;
     font-weight: bold;
 }
-
+#ns_logo{
+    position: absolute;
+    top: 10px;
+    left: 400px;
+    width: 65px;
+}
+#trein{
+    position: absolute;
+    top: 215px;
+    left: 120px;
+    width: 250px;
+}
 #right{
     width:128px;
     height: 335px;
-    background-color: #2863c3;
+    background-color: #0543a7;
     border: 2px solid #000;
 }
 #vierkantrechts span#b{
@@ -151,7 +162,7 @@
     height:20px;
     margin-left:0;
     margin-top:0;
-    background-color: #2863c3;
+    background-color: #0543a7;
 }
 body {
     background-image: url("https://gluwebdev.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0216a67a-859e-4730-996f-5d51b31fa395%2Fa139fca1-34b3-4d4f-98f2-f66dad12afdd%2FNSbord.png?table=block&id=b0913567-cbfe-45b3-b7c4-badfe7b019c7&spaceId=0216a67a-859e-4730-996f-5d51b31fa395&width=1420&userId=&cache=v2");
